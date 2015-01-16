@@ -1,2 +1,2 @@
 # chess
-Two versions of the chess assignment
+First github project for Javascript class
